@@ -1,0 +1,36 @@
+2026-03-26 20:00:07 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-26 20:00:07 - [33mPress CTRL+C to quit[0m
+2026-03-26 20:01:27 - 127.0.0.1 - - [26/Mar/2026 20:01:27] "GET / HTTP/1.1" 200 -
+2026-03-26 20:01:53 - 127.0.0.1 - - [26/Mar/2026 20:01:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-26 20:03:22 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: YHLCBSHLKHSBCLSDKHBLCHKBCYA
+2026-03-26 20:03:22 - 127.0.0.1 - - [26/Mar/2026 20:03:22] "POST / HTTP/1.1" 200 -
+2026-03-26 20:03:31 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: HSA
+2026-03-26 20:03:31 - 127.0.0.1 - - [26/Mar/2026 20:03:31] "POST / HTTP/1.1" 200 -
+2026-03-26 20:03:37 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: KBHJHBVKJBH
+2026-03-26 20:03:37 - 127.0.0.1 - - [26/Mar/2026 20:03:37] "POST / HTTP/1.1" 200 -
+2026-03-26 20:03:46 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: KHVBLJHBLJH
+2026-03-26 20:03:46 - 127.0.0.1 - - [26/Mar/2026 20:03:46] "POST / HTTP/1.1" 200 -
+2026-03-26 20:25:40 - 127.0.0.1 - - [26/Mar/2026 20:25:40] "POST / HTTP/1.1" 200 -
+2026-03-26 20:42:47 - 127.0.0.1 - - [26/Mar/2026 20:42:44] "GET / HTTP/1.1" 200 -
+2026-03-26 20:43:39 - 127.0.0.1 - - [26/Mar/2026 20:43:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-26 20:45:00 - 127.0.0.1 - - [26/Mar/2026 20:45:00] "POST / HTTP/1.1" 200 -
+2026-03-26 21:10:39 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-26 21:10:40 - [33mPress CTRL+C to quit[0m
+2026-03-26 21:17:59 - 127.0.0.1 - - [26/Mar/2026 21:17:59] "GET / HTTP/1.1" 200 -
+2026-03-26 21:18:09 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: admin
+2026-03-26 21:18:09 - 127.0.0.1 - - [26/Mar/2026 21:18:09] "POST / HTTP/1.1" 200 -
+2026-03-26 21:18:14 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: admin
+2026-03-26 21:18:14 - 127.0.0.1 - - [26/Mar/2026 21:18:14] "POST / HTTP/1.1" 200 -
+2026-03-26 21:18:20 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: ,jgv,jv
+2026-03-26 21:18:20 - 127.0.0.1 - - [26/Mar/2026 21:18:20] "POST / HTTP/1.1" 200 -
+2026-03-26 21:19:28 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: admin
+2026-03-26 21:19:28 - 127.0.0.1 - - [26/Mar/2026 21:19:28] "POST / HTTP/1.1" 200 -
+2026-03-26 21:19:34 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: admin
+2026-03-26 21:19:34 - 127.0.0.1 - - [26/Mar/2026 21:19:34] "POST / HTTP/1.1" 200 -
+2026-03-26 21:19:46 - 127.0.0.1 HTTP/1.1 401 Unauthorized - Target: admin
+2026-03-26 21:19:46 - 127.0.0.1 - - [26/Mar/2026 21:19:46] "POST / HTTP/1.1" 200 -
+2026-03-27 12:49:24 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-27 12:49:24 - [33mPress CTRL+C to quit[0m
