@@ -101,4 +101,5 @@ else:
         
     with col_table2:
         st.markdown("### 🧱 Autonomous Firewalls Actions")
-        st.dataframe(df_mitigations[['Source_IP', 'Rule_Applied', 'Latency_Secs']], height=300)
+        # FIXED: Now strictly using EventID as the Foreign Key per Chapter 3 architecture
+        st.dataframe(df_mitigations[['EventID', 'Rule_Applied', 'Latency_Secs']], height=300)
